@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daniweb Snackbar</string>
+    <string name="button">Load Data</string>
+    <string name="snackbar_loading_fail">Can\'t load data. Retry in 5 seconds.</string>
+</resources>
